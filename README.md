@@ -1,0 +1,2 @@
+# Typed_JS_Lite
+We all know about typed js which is a javascript library we can use to write set of strings at the given speed, backspace what it’s typed and begin the typing with another string. I have implemented a same thing with pure javascript. It is not perfect like that typed js but i can say that it is about 60% to 70% efficient compared to it. Thats why i have given a name TYPED_JS_LITE :)
