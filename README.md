@@ -9,16 +9,22 @@ All variables Explained
 
 => element
 an element in which sentences to be written
+
 => texts_array
 Array of sentences which are to be write inside element
+
 => stable sentence
 sentence which will not be modified, it will be as it is like it is hardcoded there
+
 => write_delay
 delay in starting to write each sentence
+
 => remove_delay
 delay before removing text from element
+
 => write_speed_per_character
 delay in writing each character in element
+
 => remove_speed_per_character
 delay in removing each character from element
 
